@@ -10,3 +10,5 @@ __pycache__/
 # etc
 .swp
 
+# vscode
+pyrightconfig.json
